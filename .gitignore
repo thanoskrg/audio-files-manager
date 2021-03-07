@@ -4,3 +4,4 @@ node_modules
 build
 
 server/app/static
+server/uploads
